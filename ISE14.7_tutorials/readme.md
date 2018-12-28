@@ -79,4 +79,32 @@ module xxl1_xxl1_sch_tb();
 	  always #200 A2=~A2;
 endmodule
 ```
-erty
+
+    在design栏内选中Simulation，下拉框内选择Behavioral，进行功能仿真
+    （或者Post-Route,进行时序仿真）点中hope2.v文件，在Processes栏内双击Behavioral Check Syntax，进行语法检查
+    打钩后说明检查通过，可开始进行仿真，双击Simulate Behavioral Model
+    Console栏里显示completed successfully说明仿真成功，会自动打开Isim界面
+![10.png](images/10.PNG)
+
+    在右边代码框下栏选择Default.wcfg点击zoom to full view（左列第三个图标）以调整大小 点击变量名并拖动，可改变其位置
+![11.png](images/11.PNG)
+![12.png](images/12.PNG)
+![13.png](images/13.PNG)
+
+    观察波形图，确认无误后可点击保存，或不保存也无所谓，直接退出
+![14.png](images/14.PNG)
+
+    回到ISE14.7，在design栏下，点击Implementation，展开processes栏中的User Constraints，
+    双击I/O Pin Planning (PlanAhead)-Pre-Synthesis打开planahead14.7进行管脚分配
+    展开Scalar Ports，在第4列中输入FPGA板中的管脚名称（如N3、E2、F3、G1、P4）,后面小正方形内会自动打钩（注意查看）保存后退出
+    在ISE14.7中双击Generate Programming File，生成编程文件（.bit）
+![15.png](images/15.PNG)
+![16.png](images/16.PNG)
+![17.png](images/17.PNG)
+![18.png](images/18.PNG)
+
+    将FPGA板连入电脑，打开板子总开关，打开Adept软件，点击第一行Browse，打开hope项目，打开生成的 (.bit)文件，点“是”，点击Program，电路就下载到了FPGA板，可通过相应开关控制二极管的亮暗
+![19.png](images/19.PNG)
+![20.png](images/20.PNG)
+![21.png](images/21.PNG)
+
