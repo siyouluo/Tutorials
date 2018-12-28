@@ -33,7 +33,8 @@
    * [others](#others)
 
 # 树莓派  
-## [为树莓派WiFi配置静态IP](https://blog.csdn.net/u013178472/article/details/78574878)  
+## 为树莓派WiFi配置静态IP  
+[树莓派手动指定静态IP和DNS 终极解决大法](https://blog.csdn.net/u013178472/article/details/78574878)  
 #使用 vi 编辑文件  
 
     vi /etc/dhcpcd.conf 
@@ -82,7 +83,11 @@
 
 # TOC  
 为markdown文档自动添加目录  
-[github链接](https://github.com/ekalinin/github-markdown-toc)
+[github链接](https://github.com/ekalinin/github-markdown-toc)  
+
+    $ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
+    $ chmod a+x gh-md-toc  
+    $ cat README.md | ./gh-md-toc -
 # Git/Github  
 整理自[Git教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)  
 ## 安装
