@@ -14,7 +14,7 @@
     #手动自定义DNS服务器  
     static domain_name_servers=114.114.114.114  
 
-实际上，只要把/etc/dhcpcd.conf文件中eth0相关的那一段（6行）复制到文件底部，将eth0接口改为wlan0，指定想要的IP即可(eth为有线网口，wlan为无线网口)但要求所指定的IP与路由器在同一网段下，且该IP不能被其他设备占用，因此往往先从桌面将树莓派连接到路由器，ifconfig命令查看当前IP，然后就指定该IP为静态IP
+实际上，只要把/etc/dhcpcd.conf文件中eth0相关的那一段（6行）复制到文件底部，将eth0接口改为wlan0，指定想要的IP即可<br>(eth为有线网口，wlan为无线网口)<br>但要求所指定的IP与路由器在同一网段下，且该IP不能被其他设备占用，因此往往先从桌面将树莓派连接到路由器，ifconfig命令查看当前IP，然后就指定该IP为静态IP
 ## 设置开机自动运行程序  
 $sudo vi /etc/rc.local  
 
