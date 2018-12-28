@@ -4,12 +4,12 @@
       * [为树莓派WiFi配置静态IP](#为树莓派wifi配置静态ip)
       * [设置开机自动运行程序](#设置开机自动运行程序)
       * [虚拟内存](#虚拟内存)
-   * [TOC](#toc)
    * [Git/Github](#gitgithub)
       * [安装](#安装)
       * [设置](#设置)
       * [基本命令](#基本命令)
       * [将本地库关联到远程](#将本地库关联到远程)
+      * [TOC](#toc)
    * [vi/vim](#vivim)
       * [进入vim](#进入vim)
       * [vim配置](#vim配置)
@@ -81,13 +81,6 @@
     $swapoff /dev/cciss/c0d0p6
     $sudo vi /etc/fstab
 
-# TOC  
-为markdown文档自动添加目录  
-[github链接](https://github.com/ekalinin/github-markdown-toc)  
-
-    $ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
-    $ chmod a+x gh-md-toc  
-    $ cat README.md | ./gh-md-toc -
 # Git/Github  
 整理自[Git教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)  
 ## 安装
@@ -158,6 +151,14 @@ Windows安装参考[Git - Downloads](https://git-scm.com/downloads)
     #将远程分支MergeSort拉取到本地MergeSort</td>
 </tr>
 </table>
+
+## TOC  
+为markdown文档自动添加目录  
+[github链接](https://github.com/ekalinin/github-markdown-toc)  
+
+    $ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
+    $ chmod a+x gh-md-toc  
+    $ cat README.md | ./gh-md-toc -
 
 # vi/vim  
 以下内容转自[Vim速查表-帮你提高N倍效率 - 简书](https://www.jianshu.com/p/6aa2e0e39f99)  
