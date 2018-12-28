@@ -111,6 +111,8 @@ Windows安装参考[Git - Downloads](https://git-scm.com/downloads)
 |----|----|
 |$ git add readme.txt|将文件添加到git仓库暂存区|
 |$ git commit -m "wrote a readme file" |将文件提交到git仓库|
+|git reset --hard HEAD^|回退到上一个版本|
+|git reset --hard 1094a|回退到commit id的前几位为1094a的版本<br>commit id可以使用git log查看|
 |$ git status |查看git仓库当前状态，并提示下一步操作|
 |$ git diff readme.txt |查看本地文件和git仓库的区别|
 |$ git log |查看提交记录|
