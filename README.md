@@ -9,6 +9,7 @@
       * [设置](#设置)
       * [基本命令](#基本命令)
       * [将本地库关联到远程](#将本地库关联到远程)
+      * [MarkDown](#MarkDown)
       * [TOC](#toc)
    * [vi/vim](#vivim)
       * [进入vim](#进入vim)
@@ -161,8 +162,10 @@ Windows安装参考[Git - Downloads](https://git-scm.com/downloads)
     $ git config --global push.default simple #只推送当前分支到远程关联的同名分支，即 'git push' 推送当前分支。
     # 从 Git 2.0 开始，Git 默认采用更为保守的 'simple' 模式，
     # 参见 'git help config' 并查找 'push.default' 以获取更多信息。
-    #（'simple' 模式由 Git 1.7.11 版本引入。如果您有时要使用老版本的 Git，为保持兼容，请用 'current' 代替 'simple'）
+    #（'simple' 模式由 Git 1.7.11 版本引入。如果您有时要使用老版本的 Git，为保持兼容，请用 'current' 代替 'simple'）  
 
+## MarkDown
+[编写*.md文件](https://github.com/guodongxiaren/README)
 ## TOC  
 为markdown文档自动添加目录  
 [github链接](https://github.com/ekalinin/github-markdown-toc)  
