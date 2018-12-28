@@ -469,3 +469,6 @@ Debian系列安装git
 [The mplot3d Toolkit — Matplotlib 3.0.2 documentation](https://matplotlib.org/tutorials/toolkits/mplot3d.html#sphx-glr-tutorials-toolkits-mplot3d-py)  
 
 # others  
+|报错信息|解决办法|
+|----|----|
+|pip .ReadTimeoutError|pip install * --default-timeout=1000|
