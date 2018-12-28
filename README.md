@@ -39,7 +39,7 @@ Debian系列安装git
 
     $ sudo apt-get install git  
 
-[Windows安装](https://git-scm.com/downloads)  
+Windows安装参考[Git - Downloads](https://git-scm.com/downloads)  
 ## 设置  
 
     $ git config --global user.name "Your Name"  
