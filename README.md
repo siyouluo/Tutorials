@@ -65,9 +65,8 @@ Debian系列安装git
 |$ git diff readme.txt |查看本地文件和git仓库的区别|
 |$ git log |查看提交记录|
 |$ git log --pretty=oneline |查看提交记录|
-|$ git branch dev
-$ git checkout dev 
-Switched to branch 'dev' |创建新的分支dev并切换到该分支|
+|$ git branch dev|创建新的分支dev|
+|$ git checkout dev|切换到dev分支|
 |$ git checkout -b dev |Switched to a new branch 'dev' |
 |$ git branch -d dev |Deleted branch dev (was b17d20e).merge之后删除分支dev|
 |$ git branch -D dev |Deleted branch dev (was b17d20e). 放弃修改直接删除分支dev|
