@@ -436,6 +436,36 @@ Debian系列安装git
 
 </table>
 
+## 查看飞控日志  
+[APM和PIX飞控日志分析入门贴 - 闲来无事搞搞机 - CSDN博客](https://blog.csdn.net/xazzh/article/details/72814567)
 
 # websites  
+[Welcome to DroneKit-Python’s documentation!](http://python.dronekit.io/)  
+[使用DroneKit控制无人机 - DarrenChan陈驰 - 博客园](https://www.cnblogs.com/DarrenChan/p/7847199.html)  
+[A*算法应用[转] - 前程明亮 - 博客园](https://www.cnblogs.com/0zcl/p/6242790.html)  
+[DJI 大疆创新官网 - 未来无所不能](https://www.dji.com/cn)  
+[ROS/Tutorials - ROS Wiki](http://wiki.ros.org/ROS/Tutorials)  
+[Ubuntu 16.04.5 LTS (Xenial Xerus)](http://releases.ubuntu.com/16.04/)  
+[Arduino - Home](https://www.arduino.cc/)  
+[Arduino中文社区 - Powered by Discuz!](https://www.arduino.cn/)  
+[How-To-Ask-Questions-The-Smart-Way](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)  
+[OpenEdv-开源电子网](http://www.openedv.com/forum.php)  
+[Linux公社资源站_Linux公社-Linux系统门户网站](https://linux.linuxidc.com/index.php)  
+[Linux公社FTP 根位于 ftp1.linuxidc.com](ftp://ftp1.linuxidc.com/)  
+用户名：ftp1.linuxidc.com<br>
+密码：www.linuxidc.com<br>
+[C++教程™](https://www.yiibai.com/cplusplus/)  
+[Linux命令大全(手册)_Linux常用命令行实例详解_Linux命令学习手册](http://man.linuxde.net/)  
+[物联网开发中心_智能硬件设备云服务接入平台_机智云](https://dev.gizwits.com/zh-cn/developer/)  
+[机智云物联网开发者社区_智能硬件及开源硬件Gokit论坛](http://club.gizwits.com/forum.php)  
+[菜鸟教程 - 学的不仅是技术，更是梦想！](http://www.runoob.com/)  
+[gcc链接外部函数库，比如数学函数库 - liming0931的专栏 - CSDN博客](https://blog.csdn.net/liming0931/article/details/7003266)  
+[神经网络教程 | tensorfly](http://www.tensorfly.cn/home/?cat=4)  
+[第一章: 利用神经网络识别手写数字 | tensorfly](http://www.tensorfly.cn/home/?p=80)  
+[介绍 | TensorFlow 官方文档中文版](http://www.tensorfly.cn/tfdoc/get_started/introduction.html)  
+[The Python Standard Library — Python 2.7.15 documentation](https://docs.python.org/2/library/index.html)  
+[Documentation — SciPy.org](https://www.scipy.org/docs.html)  
+[NumPy Reference — NumPy v1.15 Manual](https://docs.scipy.org/doc/numpy/reference/)  
+[The mplot3d Toolkit — Matplotlib 3.0.2 documentation](https://matplotlib.org/tutorials/toolkits/mplot3d.html#sphx-glr-tutorials-toolkits-mplot3d-py)  
+
 # others  
