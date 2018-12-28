@@ -453,7 +453,7 @@ Debian系列安装git
 [Linux公社资源站_Linux公社-Linux系统门户网站](https://linux.linuxidc.com/index.php)  
 [Linux公社FTP 根位于 ftp1.linuxidc.com](ftp://ftp1.linuxidc.com/)   
 用户名：ftp1.linuxidc.com<br>
-密码：www.linuxidc.com
+密码：www.linuxidc.com  
 [C++教程™](https://www.yiibai.com/cplusplus/)  
 [Linux命令大全(手册)_Linux常用命令行实例详解_Linux命令学习手册](http://man.linuxde.net/)  
 [物联网开发中心_智能硬件设备云服务接入平台_机智云](https://dev.gizwits.com/zh-cn/developer/)  
