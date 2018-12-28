@@ -67,11 +67,23 @@ Debian系列安装git
 |$ git log --pretty=oneline |查看提交记录|
 |$ git branch dev|创建新的分支dev|
 |$ git checkout dev|切换到dev分支|
-|$ git checkout -b dev |Switched to a new branch 'dev' |
-|$ git branch -d dev |Deleted branch dev (was b17d20e).merge之后删除分支dev|
-|$ git branch -D dev |Deleted branch dev (was b17d20e). 放弃修改直接删除分支dev|
+|$ git checkout -b dev |创建新的分支dev，并切换到该分支|
+|$ git branch -d dev |merge之后删除分支dev|
+|$ git branch -D dev |放弃修改直接删除分支dev|
 
 # vi/vim  
+[Vim速查表-帮你提高N倍效率 - 简书](https://www.jianshu.com/p/6aa2e0e39f99)  
+## 进入vim
+
+|命令|描述|
+|----|----|
+|vim filename|打开或新建文件,并将光标置于第一行首|
+|vim +n filename|打开文件，并将光标置于第n行首|
+|vim + filename|打开文件，并将光标置于最后一行首|
+|vim +/pattern filename|打开文件，并将光标置于第一个与pattern匹配的串处|
+|vim -r filename|在上次正用vim编辑时发生系统崩溃，恢复filename|
+|vim filename….filename|打开多个文件，依次编辑|
+
 # pixhawk  
 # websites  
 # others  
