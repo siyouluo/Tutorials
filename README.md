@@ -1,7 +1,7 @@
 各类软硬件操作教程备忘
 ---
    * [树莓派](#树莓派)
-      * [<a href="https://blog.csdn.net/u013178472/article/details/78574878" rel="nofollow">为树莓派WiFi配置静态IP</a>](#为树莓派wifi配置静态ip)
+      * [为树莓派WiFi配置静态IP](#为树莓派wifi配置静态ip)
       * [设置开机自动运行程序](#设置开机自动运行程序)
       * [虚拟内存](#虚拟内存)
    * [TOC](#toc)
