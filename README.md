@@ -44,6 +44,7 @@
     /tmp/tmp.swap swap swap default 0 0
     $swapon -s # 或free 或cat /proc/swaps 查看
 删除SWAP分区  
+
     $swapoff /dev/cciss/c0d0p6
     $sudo vi /etc/fstab
 
