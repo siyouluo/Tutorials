@@ -25,14 +25,11 @@
 例1.在第一段注释代码之下添加：  
 
     /bin/bash	teamviewer &  
-
-即在开机时自动使用bash运行teamviewer程序  
+    #在开机时自动使用bash运行teamviewer程序  
 例2.在第一段注释代码之下添加：  
 
     /usr/bin/python	/home/pi/my_program.py &  
- 
-即在开机时自动使用python解释器运行*.py脚本  
-
+    #在开机时自动使用python解释器运行*.py脚本  
 命令末尾的&表示在后台运行程序，否则树莓派可能无法引导  
 
 # Git/Github  
