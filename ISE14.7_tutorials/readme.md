@@ -2,10 +2,10 @@
 
     打开ISE14.7  
 ![1.png](images/1.PNG)  
-
+---
     点击New Project,新建项目，命名（例如hope），点击Next  
 ![2.png](images/2.PNG)  
-
+---
     选择和所用FPGA板匹配的参数：Spartan3E, XC3S100E, CP132, -4,点击next，finish.
 ![3.png](images/3.PNG)  
 
@@ -106,7 +106,9 @@ endmodule
 ![20.png](images/20.PNG)
 ![21.png](images/21.PNG)
 
-    将FPGA板连入电脑，打开板子总开关，打开Adept软件，点击第一行Browse，打开hope项目，打开生成的 (.bit)文件，点“是”，点击Program，电路就下载到了FPGA板，可通过相应开关控制二极管的亮暗
+    将FPGA板连入电脑，打开板子总开关，打开Adept软件
+    点击第一行Browse，打开hope项目，打开生成的 (.bit)文件，点“是”，点击Program
+    电路就下载到了FPGA板，可通过相应开关控制二极管的亮暗
 ![22.png](images/22.PNG)
 ![23.png](images/23.PNG)
 ![24.png](images/24.PNG)
