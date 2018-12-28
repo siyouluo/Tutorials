@@ -48,6 +48,9 @@
     $swapoff /dev/cciss/c0d0p6
     $sudo vi /etc/fstab
 
+# TOC  
+为markdown文档自动添加目录  
+[github链接](https://github.com/ekalinin/github-markdown-toc)
 # Git/Github  
 整理自[Git教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)  
 ## 安装
