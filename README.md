@@ -37,12 +37,15 @@
 树莓派资源有限，经常遇到运行时内存占用过多而卡死的情况，参照如下方式使用swap虚拟内存，可以缓解此情况  
 [为树莓派配置或扩展swap分区 - 念槐聚 - 博客园](https://www.cnblogs.com/haochuang/p/6836254.html)
 
-    dd if=/dev/zero of=/tmp/tmp.swap bs=1M count =2000
-    mkswap /tmp/tmp.swap
-    swapon /tmp/tmp.swap
-    #修改/etc/fstab文件，增加以下内容：
+    $dd if=/dev/zero of=/tmp/tmp.swap bs=1M count =2000 #建立一个2000M的文件
+    $mkswap /tmp/tmp.swap   #标识为SWAP文件
+    $swapon /tmp/tmp.swap   #激活SWAP文件
+    $sudo vi /etc/fstab  #修改/etc/fstab文件，增加以下内容
     /tmp/tmp.swap swap swap default 0 0
-    swapon -s 或free 或cat /proc/swaps 查看
+    $swapon -s # 或free 或cat /proc/swaps 查看
+删除SWAP分区  
+    $swapoff /dev/cciss/c0d0p6
+    $sudo vi /etc/fstab
 
 # Git/Github  
 整理自[Git教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)  
