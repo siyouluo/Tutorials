@@ -12,7 +12,9 @@
 ![4.png](images/4.PNG)
 ![5.png](images/5.PNG)
 
-    左边栏中选择symbols，在symbols栏中选择电路元件（例如and2）点击后<br>可在右边区域放置，连接电路图，添加输入端、输出端<br>点击左侧栏“abc”或双击端口更改名称,结束后注意保存!  
+    左边栏中选择symbols，在symbols栏中选择电路元件（例如and2）点击后
+    可在右边区域放置，连接电路图，添加输入端、输出端
+    点击左侧栏“abc”或双击端口更改名称,结束后注意保存!  
 ![6.png](images/6.PNG)
 
     （在design栏下）添加文件，选择Verilog Text Fixture,命名（如hope2），next， next，finish  
