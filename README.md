@@ -256,5 +256,17 @@ Debian系列安装git
 |:read file.c|将文件file.c的内容插入到当前光标所在的下面
 
 # pixhawk  
+## 飞行模式
+[ArduPilot Tutorial(PDF版)及ArduPilot飞行模式介绍 - xiaoshuai537的博客 - CSDN博客](https://blog.csdn.net/xiaoshuai537/article/details/60465851)  
+[PIXHAWK 飞行模式简易说明 - 多旋翼](http://www.moz8.com/thread-36543-1-105.html)  
+
+|PIXHAWK 飞行模式简易说明||||
+| :------------ |:---------------:| -----:| -----:|
+|飞行模式|||是否需GPS定位|
+|中文名|英文名|MP简称|
+|自稳模式|Stabilize Mode|Stabilize|否|
+||模式说明：自稳模式会自动保持多轴直升机的水平并且维持目前的朝向<br>[相关资料](http://copter.ardupilot.cn/wiki/stabilize-mode/)|
+
+
 # websites  
 # others  
