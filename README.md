@@ -451,7 +451,7 @@ Debian系列安装git
 [How-To-Ask-Questions-The-Smart-Way](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)  
 [OpenEdv-开源电子网](http://www.openedv.com/forum.php)  
 [Linux公社资源站_Linux公社-Linux系统门户网站](https://linux.linuxidc.com/index.php)  
-[Linux公社FTP根位于ftp://ftp1.linuxidc.com/]  
+[Linux公社FTP 根位于 ftp1.linuxidc.com] 
 用户名：ftp1.linuxidc.com<br>
 密码：www.linuxidc.com<br>
 [C++教程™](https://www.yiibai.com/cplusplus/)  
