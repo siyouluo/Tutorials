@@ -73,6 +73,7 @@ Debian系列安装git
 
 # vi/vim  
 [Vim速查表-帮你提高N倍效率 - 简书](https://www.jianshu.com/p/6aa2e0e39f99)  
+[vi的复制粘贴命令 - lansh - 博客园](http://www.cnblogs.com/lansh/archive/2010/08/19/1803378.html)
 ## 进入vim
 |命令|描述|
 |----|----|
