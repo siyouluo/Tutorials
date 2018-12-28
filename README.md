@@ -72,6 +72,37 @@ Windows安装参考[Git - Downloads](https://git-scm.com/downloads)
 |$ git branch -d dev |merge之后删除分支dev|
 |$ git branch -D dev |放弃修改直接删除分支dev|
 
+## 将本地库关联到远程  
+<table>
+<tr>
+    <td width="200">ssh-keygen -t rsa –C example@example.com<br>
+        #密码可设置为空</td>
+    <td rowspan="7"><img src="./images/SSH_keys.png"></td>
+</tr>
+<tr>
+    <td>将本地生成的id_rsa.pub添加到SSH key</td>
+</tr>
+
+<tr>
+    <td>在GitHub建立新的仓库，按提示操作</td>
+</tr>
+
+<tr>
+    <td>git remote add origin git@github.com:LiRengithub/Sort.git</td>
+</tr>
+
+<tr>
+    <td>git push -u origin master<br>
+    #若将其他分支例如dev推送到远程则:git push origin dev</td>
+</tr>
+
+<tr>
+    <td>git checkout [-b] MergeSort<br>
+    git pull origin MergeSort<br>
+    #将远程分支MergeSort拉取到本地MergeSort</td>
+</tr>
+</table>
+
 # vi/vim  
 以下内容转自[Vim速查表-帮你提高N倍效率 - 简书](https://www.jianshu.com/p/6aa2e0e39f99)  
 另外参考[vi的复制粘贴命令 - lansh - 博客园](http://www.cnblogs.com/lansh/archive/2010/08/19/1803378.html)
