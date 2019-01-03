@@ -23,7 +23,7 @@
 选中一小块独立的电路，鼠标右键<br>![3.png](./images/3.png)<br>重命名并选择存放地址，添加注释，点击OK<br>![4.png](./images/4.png)  
 调用Snippet：点击System-> Snippets<br>![5.png](./images/5.png)<br>双击所需要的Snippets放置到电路中<br>![6.png](./images/6.png)  
 # 更改元件封装  
-点击Tools ->Footprint Manager……<br>![7.png](./images/7.png)<br>在左边选中某个元件后，在右边列出的可用封装中选中某一个<br>![8.png](./images/8.png)<br>鼠标右击，选择set as current<br>![9.png](./images/9.png)<br>面板右下角点击Accept Changes![10.png](./images/10.png)<br>然后依次点击Validate Changes和Execute Changes<br>![11.png](./images/11.png)
+点击Tools ->Footprint Manager……<br>![7.png](./images/7.png)<br>在左边选中某个元件后，在右边列出的可用封装中选中某一个<br>![8.png](./images/8.png)<br>鼠标右击，选择set as current<br>![9.png](./images/9.png)<br>面板右下角点击Accept Changes<br>![10.png](./images/10.png)<br>然后依次点击Validate Changes和Execute Changes<br>![11.png](./images/11.png)
 
 
 
