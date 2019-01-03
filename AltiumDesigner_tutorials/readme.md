@@ -16,3 +16,5 @@
 |Report-> Bill of Materials->Template选择合适模板->export（导出）|生成元件清单|
 |Unknown Pin：design->netlist->edit net->删除所有net|
 |画PCBDOC，快捷键EOS设置坐标原点，PT连导线|
+# 创建联合体Union  
+选中一小块独立的电路，鼠标右键<br>![1.jpg](./images/1.jpg)  
