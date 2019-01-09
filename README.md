@@ -572,6 +572,7 @@ Windows安装参考[Git - Downloads](https://git-scm.com/downloads)
 [The mplot3d Toolkit — Matplotlib 3.0.2 documentation](https://matplotlib.org/tutorials/toolkits/mplot3d.html#sphx-glr-tutorials-toolkits-mplot3d-py)  
 
 # others  
+[EbookFoundation/free-programming-books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books)  
 |报错信息|解决办法|
 |----|----|
 |pip .ReadTimeoutError|pip install * --default-timeout=1000|
