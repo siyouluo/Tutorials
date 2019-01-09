@@ -175,6 +175,8 @@ Windows安装参考[Git - Downloads](https://git-scm.com/downloads)
     $ cat README.md | ./gh-md-toc -
 
 # vi/vim  
+[wsdjeg/vim-galore-zh_cn: Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)  
+[wsdjeg/vim-plugin-dev-guide: Vim 插件开发指南](https://github.com/wsdjeg/vim-plugin-dev-guide)  
 以下内容转自[Vim速查表-帮你提高N倍效率 - 简书](https://www.jianshu.com/p/6aa2e0e39f99)  
 另外参考[vi的复制粘贴命令 - lansh - 博客园](http://www.cnblogs.com/lansh/archive/2010/08/19/1803378.html)
 ## 进入vim
