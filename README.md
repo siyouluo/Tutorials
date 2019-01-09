@@ -573,6 +573,7 @@ Windows安装参考[Git - Downloads](https://git-scm.com/downloads)
 
 # others  
 [EbookFoundation/free-programming-books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books)  
+[gzc/CLRS: Solutions to Introduction to Algorithms](https://github.com/gzc/CLRS)  
 
 |报错信息|解决办法|
 |----|----|
