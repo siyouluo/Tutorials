@@ -576,7 +576,7 @@ Windows安装参考[Git - Downloads](https://git-scm.com/downloads)
 # others  
 [EbookFoundation/free-programming-books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books)  
 [gzc/CLRS: Solutions to Introduction to Algorithms](https://github.com/gzc/CLRS)  
-
+[代码规范：在Keil5中使用代码格式化工具Astyle（插件） - wishriver - 博客园](http://www.cnblogs.com/jnhs/p/10004334.html)  
 |报错信息|解决办法|
 |----|----|
 |pip .ReadTimeoutError|pip install * --default-timeout=1000|
