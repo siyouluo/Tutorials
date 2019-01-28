@@ -233,3 +233,22 @@
 ![35.png](./images/35.png)  
 ![36.png](./images/36.png)  
 ![37.png](./images/37.png)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[altium designer 标题栏设置方法 - 百度文库](https://wenku.baidu.com/view/f2d4b7b569dc5022aaea0036.html)  
