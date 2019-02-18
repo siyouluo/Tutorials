@@ -11,6 +11,7 @@
       * [将本地库关联到远程](#将本地库关联到远程)
       * [MarkDown](#MarkDown)
       * [TOC](#toc)
+   * [LaTex](#LaTex)
    * [vi/vim](#vivim)
       * [进入vim](#进入vim)
       * [vim配置](#vim配置)
@@ -173,6 +174,11 @@ Windows安装参考[Git - Downloads](https://git-scm.com/downloads)
     $ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
     $ chmod a+x gh-md-toc  
     $ cat README.md | ./gh-md-toc -
+
+# LaTex
+[参考教程](http://www.voidcn.com/article/p-aoquvmgu-bro.html)  
+[TexLive国内镜像ISO](http://mirrors.hust.edu.cn/CTAN/systems/texlive/Images/)  
+
 
 # vi/vim  
 [wsdjeg/vim-galore-zh_cn: Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)  
