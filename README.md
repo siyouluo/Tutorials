@@ -29,6 +29,7 @@
       * [窗口操作](#窗口操作)
       * [文件及其他](#文件及其他)
    * [pixhawk](#pixhawk)
+      * [连接方式](#连接方式)
       * [飞行模式](#飞行模式)
       * [查看飞控日志](#查看飞控日志)
    * [websites](#websites)
@@ -367,6 +368,10 @@ Windows安装参考[Git - Downloads](https://git-scm.com/downloads)
 |:read file.c|将文件file.c的内容插入到当前光标所在的下面
 
 # pixhawk  
+## 连接方式
+[Connecting to a Vehicle](http://python.dronekit.io/automodule.html#dronekit.connect)  
+[Connection string](http://python.dronekit.io/guide/connecting_vehicle.html#get-started-connecting)  
+
 ## 飞行模式
 [ArduPilot Tutorial(PDF版)及ArduPilot飞行模式介绍 - xiaoshuai537的博客 - CSDN博客](https://blog.csdn.net/xiaoshuai537/article/details/60465851)  
 以下内容转自[PIXHAWK 飞行模式简易说明 - 多旋翼](http://www.moz8.com/thread-36543-1-105.html)  
