@@ -167,7 +167,8 @@ Windows安装参考[Git - Downloads](https://git-scm.com/downloads)
     #（'simple' 模式由 Git 1.7.11 版本引入。如果您有时要使用老版本的 Git，为保持兼容，请用 'current' 代替 'simple'）  
 
 ## MarkDown
-[编写*.md文件](https://github.com/guodongxiaren/README)
+[编写*.md文件](https://github.com/guodongxiaren/README)  
+[在markdown中使用HTML中的特殊符号](https://blog.csdn.net/vola9527/article/details/69948411)  
 ## TOC  
 为markdown文档自动添加目录  
 [github链接](https://github.com/ekalinin/github-markdown-toc)  
