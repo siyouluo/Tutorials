@@ -14,7 +14,7 @@
    * [创建联合体Union](#创建联合体union)
    * [创建电路模块Snippet](#创建电路模块snippet)
    * [更改元件封装](#更改元件封装)
-   * [批量更改元件封装](#批量更改元件封装(以电容为例))
+   * [批量更改元件封装](#批量更改元件封装)
    * [参考链接](#参考链接)
 
 # 操作步骤详解
@@ -272,7 +272,7 @@ Anti pad = 外径 + 0.1mm
 
 <img src="./images/implement_footprint_4.png" width="400" align=center border="4"/>  
 
-# 批量更改元件封装(以电容为例)
+# 批量更改元件封装
 选中一个电容，鼠标右击，点击第一个Find Similar Objects……  
 
 <img src="./images/find_similar_objects.png" width="400" align=center border="4"/>  
