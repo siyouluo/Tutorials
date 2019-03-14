@@ -186,3 +186,7 @@
 
 ## 查看飞控日志  
 [APM和PIX飞控日志分析入门贴 - 闲来无事搞搞机 - CSDN博客](https://blog.csdn.net/xazzh/article/details/72814567)
+
+# websites
+[Welcome to DroneKit-Python’s documentation!](http://python.dronekit.io/)  
+[使用DroneKit控制无人机 - DarrenChan陈驰 - 博客园](https://www.cnblogs.com/DarrenChan/p/7847199.html)  
